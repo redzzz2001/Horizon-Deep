@@ -48,7 +48,14 @@ Não precisa instalar nada, nem rodar servidor local:
 2. Dê um **duplo clique no arquivo `.html`** para abrir direto no navegador (**Google Chrome**, **Microsoft Edge** ou **Opera** com suporte a **WebGPU** e aceleração de hardware ativados).
 3. Escolha seu preset gráfico e decole!
 
----
+<div align="center">
+
+[![Jogar Agora](https://shields.io_JOGAR_HORIZON_DEEP_ONLINE-005A9C?style=for-the-badge&logo=vercel&logoColor=white)](https://horizondeep.vercel.app/)
+
+*Roda direto no navegador (Chrome / Edge com WebGPU) — sem precisar baixar nada!*
+
+</div>
+
 
 ## 🎮 Controles Básicos
 
