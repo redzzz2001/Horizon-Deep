@@ -20,7 +20,7 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 |<img width="1919" height="1079" alt="Captura de tela 2026-11-23 215846" src="https://github.com/user-attachments/assets/ceebb430-d480-40ad-a70f-d89455fea920" />|
 
 
-| Bioma de Savana |
+| Voo sobre o mar |
 | :---: |
 |<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/5742bf37-704f-4ffd-a36c-fe5f5931c343" />|
 
