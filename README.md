@@ -15,12 +15,12 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 
 > **Nota:** Substitua os caminhos abaixo pelos arquivos das suas capturas de tela dentro da pasta `screenshots/` do seu repositório.
 
-| Voo Noturno sob a Lua Cheia | Costa & Oceano Procedural |
+| Voo Noturno sob a Lua Cheia |
 | :---: | :---: |
-| ![Voo Noturno](screenshots/night-flight.png) | ![Costa e Oceano](screenshots/coastline-ocean.png) |
+|<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/68d5305c-905b-4500-aa8c-89d66f9be4ef" />|
 
-| Bioma de Savana & Montanhas Nevadas | Decolagem Rasante (Modo Foto) |
-| :---: | :---: |
+| Bioma de Savana & Montanhas Nevadas |
+| :---: |
 |<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/5742bf37-704f-4ffd-a36c-fe5f5931c343" />|
 
 ---
