@@ -15,12 +15,12 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 
 > **Nota:** Substitua os caminhos abaixo pelos arquivos das suas capturas de tela dentro da pasta `screenshots/` do seu repositório.
 
-| Bioma de Savana & Montanhas Nevadas |
+| Voo a Noite |
 | :---: |
 |<img width="1919" height="1079" alt="Captura de tela 2026-11-23 215846" src="https://github.com/user-attachments/assets/ceebb430-d480-40ad-a70f-d89455fea920" />|
 
 
-| Bioma de Savana & Montanhas Nevadas |
+| Bioma de Savana |
 | :---: |
 |<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/5742bf37-704f-4ffd-a36c-fe5f5931c343" />|
 
