@@ -1,5 +1,4 @@
-<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/5742bf37-704f-4ffd-a36c-fe5f5931c343" />
-# ✈️ HORIZON DEEP — WebGPU Procedural Flight & Ocean Simulator
+#   HORIZON DEEP — WebGPU Procedural Flight & Ocean Simulator
 
 ![WebGPU](https://shields.io)
 ![Single HTML File](https://shields.io)
@@ -22,7 +21,7 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 
 | Bioma de Savana & Montanhas Nevadas | Decolagem Rasante (Modo Foto) |
 | :---: | :---: |
-| ![Savana e Neve](Shots/8.png) | ![Decolagem na Praia](screenshots/beach-takeoff.png) |
+|<img width="1919" height="1079" alt="8" src="https://github.com/user-attachments/assets/5742bf37-704f-4ffd-a36c-fe5f5931c343" />|
 
 ---
 
