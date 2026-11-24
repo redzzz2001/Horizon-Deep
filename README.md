@@ -50,7 +50,7 @@ Não precisa instalar nada, nem rodar servidor local:
 
 <div align="center">
 
-[![Jogar Agora](https://shields.io_JOGAR_HORIZON_DEEP_ONLINE-005A9C?style=for-the-badge&logo=vercel&logoColor=white)](https://horizondeep.vercel.app/)
+[![Jogar Agora](JOGAR_HORIZON_DEEP_ONLINE)](https://horizondeep.vercel.app/)
 
 *Roda direto no navegador (Chrome / Edge com WebGPU) — sem precisar baixar nada!*
 
