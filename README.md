@@ -21,7 +21,7 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 
 | Bioma de Savana & Montanhas Nevadas | Decolagem Rasante (Modo Foto) |
 | :---: | :---: |
-| ![Savana e Neve](Screenshots/8.png) | ![Decolagem na Praia](screenshots/beach-takeoff.png) |
+| ![Savana e Neve](Shots/8.png) | ![Decolagem na Praia](screenshots/beach-takeoff.png) |
 
 ---
 
