@@ -9,7 +9,7 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 
 ## 📸 Galeria (Capturas In-Game / Modo Foto)
 
-> **Nota:** Substitua os caminhos abaixo pelos arquivos das suas capturas de tela dentro da pasta `screenshots/` do seu repositório.
+
 
 | Voo a Noite |
 | :---: |
