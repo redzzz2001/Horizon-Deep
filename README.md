@@ -1,9 +1,5 @@
 #   HORIZON DEEP — WebGPU Procedural Flight & Ocean Simulator
 
-![WebGPU](https://shields.io)
-![Single HTML File](https://shields.io)
-![File Size](https://shields.io)
-![Zero Dependencies](https://shields.io)
 
 Um simulador de voo, exploração marítima e submarina fotorrealista construído **100% do zero em WebGPU e WGSL puro**, sem nenhuma engine externa e empacotado em **um único arquivo `.html` de ~461 KB** — basta baixar e abrir direto no navegador!
 
