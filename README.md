@@ -33,25 +33,12 @@ Um simulador de voo, exploração marítima e submarina fotorrealista construíd
 
 ### 🌍 Mundo Vivo & Exploração Anfíbia
 - **Exploração Ar, Mar e Submarino:** Pilote um **P-51D** detalhado (com hélice com *motion blur* procedural), pouse na água ou mergulhe para explorar o fundo do oceano.
-- **6 Biomas Procedurais:** Praias tropicais, cadeias montanhosas com neve procedural baseada em inclinação (*slope*), savanas douradas, florestas e áreas costeiras.
+- **Biomas Procedurais:** Praias tropicais, cadeias montanhosas com neve procedural baseada em inclinação (*slope*), savanas douradas, florestas e áreas costeiras.
 - **Ecossistema Dinâmico:** Grama 3D reativa ao vento e ao *downwash*, florestas 3D, animais terrestres, gaivotas e vida marinha (algas e peixes).
 
 ### 📷 Modo Foto Integrado
 - Controle completo de **FOV (campo de visão)**, **Exposição**, **Hora do Dia**, **Clima** e **Poses pré-definidas da aeronave** para enquadramentos cinematográficos.
 
----
-
-## ⚡ Otimização & Desempenho
-
-Projetado com *GPU Frustum Culling*, *Early-Z*, *Distance-Based LOD* nos shaders e gerenciamento inteligente de chunks para rodar liso até mesmo em gráficos integrados (**APUs**):
-
-| Preset Gráfico | Resolução / Escala | Recursos Ativos | Desempenho (Ryzen 5 5600GT / Vega 7) |
-| :--- | :---: | :--- | :---: |
-| **Desempenho (60+ FPS)** | 1080p (70% + CAS) | Iluminação analítica, LOD agressivo, sem RT pesado | **100 FPS** (cravado no limite) |
-| **Ultra / Equilibrado** | 1080p (85% + CAS) | Nuvens volumétricas, terreno 2K procedural, reflexos | **30+ FPS** estáveis |
-| **Hiper-Realista (RTX Máx)** | 1080p Nativo / 85% | Ray Tracing completo (Sombras, Reflexos, AO/GI), 12 passos de nuvens | Focado em **Modo Foto / 30 FPS** |
-
----
 
 ## 🚀 Como Jogar (Zero Instalação)
 
@@ -74,7 +61,8 @@ Não precisa instalar nada, nem rodar servidor local:
 | **`P` ou Menu** | Abrir **Modo Foto** e ajustar clima, hora e poses |
 | **`H`** | Ocultar / Mostrar HUD |
 
----
+## IA
+| Esse projeto foi gerado com IA usando o modelo Neon Do google pelo antigravity em varios prompts.
 
 ## 🛠️ Tecnologias Utilizadas
 
